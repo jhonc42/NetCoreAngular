@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAngular", "NetCoreAngular\NetCoreAngular.csproj", "{932E3D47-3900-41D4-831F-C9D93BFFFE52}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6ADA66BD-B6CB-4E6E-96E3-915823ADCB8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAngular", "NetCoreAngular\NetCoreAngular.csproj", "{932E3D47-3900-41D4-831F-C9D93BFFFE52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{932E3D47-3900-41D4-831F-C9D93BFFFE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{932E3D47-3900-41D4-831F-C9D93BFFFE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{932E3D47-3900-41D4-831F-C9D93BFFFE52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6ADA66BD-B6CB-4E6E-96E3-915823ADCB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6ADA66BD-B6CB-4E6E-96E3-915823ADCB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6ADA66BD-B6CB-4E6E-96E3-915823ADCB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6ADA66BD-B6CB-4E6E-96E3-915823ADCB8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
